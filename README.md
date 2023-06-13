@@ -30,9 +30,11 @@ Questions:
 <br/>
 - Features of BioPython
 <img src="imgs/Biopython_featuresdiagram.png">
+
 ---
 
 What is Biotite<br/>
+<img src="imgs/biotite_logo_s.png">
 
 + Biotite can handle a major part of the typical workflow for sequence and biomolecular structure data:
  + Searching and fetching data from biological databases
@@ -40,6 +42,8 @@ What is Biotite<br/>
  + Analyzing and editing sequence/structure data
  + Visualizing sequence/structure data
  + Interfacing external applications for further analysis
+<br/>
+<img src="imgs/biotitefeatures.png">
 
 ### Modules of Biotite
  + Sequence
