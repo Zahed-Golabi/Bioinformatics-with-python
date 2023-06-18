@@ -1,0 +1,21 @@
+Amino acids,Symbols,,Codons
+Alanine,Ala,A,"GCA, GCC, GCG, GCU"
+Cysteine,Cys,C,"UGC, UGU"
+Aspartic acid,Asp,D,"GAC, GAU"
+Glutamic acid,Glu,E,"GAA, GAG"
+Phenylalanine,Phe,F,"UUC, UUU"
+Glycine,Gly,G,"GGA, GGC, GGG, GGU"
+Histidine,His,H,"CAC, CAU"
+Isoleucine,Ile,I,"AUA, AUC, AUU"
+Lysine,Lys,K,"AAA, AAG"
+Leucine,Leu,L,"UUA, UUG, CUA, CUC, CUG, CUU"
+Methionine,Met,M,AUG
+Asparagine,Asn,N,"AAC, AAU"
+Proline,Pro,P,"CCA, CCC, CCG, CCU"
+Glutamine,Gln,Q,"CAA, CAG"
+Arginine,Arg,R,"AGA, AGG, CGA, CGC, CGG, CGU"
+Serine,Ser,S,"AGC, AGU, UCA, UCC, UCG, UCU"
+Threonine,Thr,T,"ACA, ACC, ACG, ACU"
+Valine,Val,V,"GUA, GUC, GUG, GUU"
+Tryptophan,Trp,W,UGG
+Tyrosine,Tyr,Y,UAC UAU
