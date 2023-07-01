@@ -52,7 +52,7 @@ What is Biotite<br/>
  + Database
 
 ##### Installation
-+ pip install biotite
+``pip install biotite``
 
 ---
 
