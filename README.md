@@ -53,3 +53,18 @@ What is Biotite<br/>
 
 ##### Installation
 + pip install biotite
+
+---
+
+What is Scikit-bio<br/>
+<img src="imgs/scikit_bio_logo.png">
+### Features
++ Handling sequences: (skbio.io,skbio.sequence,skbio.alignment)
++ Phylogenetics: (skbio.tree)
++ Workflow Constructio
++ State and Calculation: (skbio.stats,skbio.diversity)
++ Metadata and Utility functionality: (skbio.metadata,skbio.util)
+
+##### Installation
+``pip install scikit-bio``
+
